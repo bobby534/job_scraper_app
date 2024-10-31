@@ -1,0 +1,15 @@
+Django>=4.0,<5.0
+djangorestframework
+django-cors-headers
+psycopg2-binary
+spacy
+PyPDF2
+python-docx
+beautifulsoup4
+scrapy
+requests
+google-api-python-client
+reportlab
+weasyprint
+celery
+redis
